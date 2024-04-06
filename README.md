@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinw27&label=Profile%20views&color=0e75b6&style=flat" alt="jatinw27" /> </p>
 
-- 🔭 I’m currently studying Bachelor of Computer Application [calc](https://github.com/jatinw27/calc.git)
+- 🔭 I’m currently studying Bachelor of Computer Application 
 
 - 📫 How to reach me **jatinpunjabi27122004@gmail.com**
 
