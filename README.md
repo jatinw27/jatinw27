@@ -1,8 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Jatin Punjabi</h1>
 <h3 align="center">A student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinw27&label=Profile%20views&color=0e75b6&style=flat" alt="jatinw27" /> </p>
+
+- 🔭 I’m currently studying Bachelor of Computer Application [calc](https://github.com/jatinw27/calc.git)
+
+- 📫 How to reach me **jatinpunjabi27122004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
